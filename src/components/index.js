@@ -1,0 +1,9 @@
+export { default as Navbar } from './Navbar.jsx';
+export { default as Hero } from './Hero.jsx';
+export { default as Clients } from './Clients.jsx';
+export { default as Discover } from './Discover.jsx';
+export { default as Orders } from './Orders.jsx';
+export { default as WhyChoose } from './WhyChoose.jsx';
+export { default as Connected } from './Connected.jsx';
+export { default as Footer } from './Footer.jsx';
+export { default as FrequentlyAsk } from './FrequentlyAsk.jsx';
